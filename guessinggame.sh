@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # File: guessinggame.sh
-
 function guessing {
 
   number=$(ls | wc -l)
