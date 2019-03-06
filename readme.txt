@@ -1,4 +1,4 @@
 Welcome to my first repo
 Adding a new line
 Third line from new-feature
-Here there is a conflict
+Conflict with this line
